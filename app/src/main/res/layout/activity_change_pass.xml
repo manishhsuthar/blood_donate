@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <EditText
+        android:id="@+id/change_pass_edt_new_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/custom_border"
+        android:hint="Enter New Password"
+        android:padding="10dp" />
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/change_pass_edt_cnew_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/change_pass_edt_new_pass"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_border"
+        android:hint="Re-Enter New Password"
+        android:padding="10dp" />
+
+    <Button
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/change_pass_btn"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom_btn"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="italic|bold"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/change_pass_edt_cnew_pass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="Save" />
+
+</RelativeLayout>

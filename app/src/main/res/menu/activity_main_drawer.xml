@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_signup"
+            android:title="Signup" />
+        <item
+            android:id="@+id/nav_forget_password"
+            android:title="Forget Password" />
+        <item
+            android:id="@+id/nav_guest_receiver"
+            android:title="Blood Receiver" />
+    </group>
+
+
+</menu>

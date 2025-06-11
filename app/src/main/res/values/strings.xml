@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">BloodDonate</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="email">Enter Your Email ID</string>
+    <string name="pass">Enter Your Password</string>
+    <string name="name">Enter Your Full Name</string>
+    <string name="cpass">Enter Your Confirm Password</string>
+    <string name="cno">Enter Your Contact Number</string>
+    <string name="date">Enter Your Birth date</string>
+    <string name="hint">Enter Your Nick Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="about_blood">\t\t\t A blood donation occurs when a person voluntarily has blood drawn and used for transfusions and/or made into biopharmaceutical medications by a process called fractionation (separation of whole-blood components). Donation may be of whole blood (WB), or of specific components directly (the latter called apheresis). Blood banks often participate in the collection process as well as the procedures that follow it.</string>
+    <string name="about_organ">\t\t\t Organ donors are usually dead at the time of donation, but may be living.For living donors, organ donation typically involves extensive testing before the donation, including psychological evaluation to determine whether the would-be donor understands and consents to the donation. On the day of the donation, the donor and the recipient arrive at the hospital, just like they would for any other major surgery.</string>
+    <string name="about_organ1">\t\t\t For dead donors, the process begins with verifying that the person is hopelessly dead, determining whether any organs could be donated, and obtaining consent for the donation of any usable organs. Normally, nothing is done until the person has already died, although if death is inevitable, it is possible to check for consent and to do some simple medical tests shortly beforehand, to help find a matching recipient.</string>
+
+    <string-array name="title">
+
+        <item>Ashirved Blood Bank</item>
+        <item>Help Voluntary Blood Bank</item>
+        <item>Mahagujarat Blood Bank Pathology Laboratory and R I A Unit</item>
+        <item>Immunoheamatology And Blood Transfusion</item>
+        <item>Prathama Blood Centre</item>
+        <item>Supratech Voluntary Blood Bank</item>
+        <item>Ashish Pathology Laboratory</item>
+        <item>Adarsh Pathology Laboratory And Blood Bank</item>
+        <item>Gujarat Blood Bank</item>
+        <item>Green Cross Voluntary Blood Bank</item>
+        <item>Gujarat Blood Bank</item>
+        <item>Prathama Blood Centre</item>
+        <item>Thalasameia Blood Centre</item>
+        <item>Karnavati Blood Bank and Pathology Lab </item>
+        <item>Sanket Pathology Lab And Volantary Blood Bank</item>
+        <item>Ami Pathology Lab And Blood Bank</item>
+        <item>Cross World Blood Bank Pathology and R I A Unit</item>
+        <item>Indian Red Cross Blood Bank</item>
+        <item>Prathama Blood Centre</item>
+        <item>Mohan Pathology Laboratory and Blood Bank</item>
+        <item>Karnavati Blood Bank</item>
+        <item>Gujarat Blood Bank</item>
+        <item>Gujarat Blood Bank</item>
+        <item>Green Cross Voluntary Blood Bank</item>
+        <item>Mahagujarat Blood Bank </item>
+        <item>Guj Blood Bank</item>
+        <item>Green Cross Vol Blood Bank</item>
+        <item>Voluntary Blood Bank Pathology And Ria</item>
+
+    </string-array>
+
+    <string-array name="address">
+        <item>Plot 291, Sky View, Sector 22, Near 17/22 Bus Stop, Gandhinagar, Ahmedabad, Gujarat - 382006 </item>
+        <item>67, Opposite L. G. Hospital, Cotyark Complex, Ahmedabad, Gujarat – 380008</item>
+        <item>C-13, First Floor, Soham Complex, Soni Chawl Char Rasta, National Highway No 8, Odhav, Ahmedabad, Gujarat - 382415</item>
+        <item>D-2, Department Of I H B T, Asarwa, Civil Hospital Campus, Megani Nagar, Ahmedabad, Gujarat - 380016</item>
+        <item>JVRJ Park, Paldi, Ahmedabad, Gujarat - 380007</item>
+        <item>First Floor, Milestone, Above Bank Of Baroda, Near Drive-in-Cinema, Thaltej, Ahmedabad, Gujarat - 380054	</item>
+        <item>Pir Mohamadshah Mansion, Relief Road, Cheekanta Char Rasta, Kalupur, Ahmedabad, Gujarat - 380001</item>
+        <item>Samjuba Hospital, Bapunagar, Ahmedabad, Gujarat - 380024</item>
+        <item>1-2 Seller, Seller Shubhlaxmi Tower, Opposite Sanghvi School, Naranpura, Ahmedabad, Gujarat - 380013</item>
+        <item>27, 28, Vishwamitra Complex, Stadium Five Cross Road, Near Golden Triangle, Five Cross Road, Ahmedabad, Gujarat - 380014</item>
+        <item>Shop No.101, Span Trade Centre, Paldi Cross Road, Paldi, Ahmedabad, Gujarat - 380014</item>
+        <item>Behind Jivraj Mehta Hospital, Vasna, Ahmedabad, Gujarat - 380007</item>
+        <item>Near Paldi Char Rasta, Red Cross, Paldi, Ahmedabad, Gujarat - 380007</item>
+        <item>36, Shubhlaxmi Complex, Naranpura, Ahmedabad, Gujarat - 380013</item>
+        <item>Shakti House, Near Parimal Cross Road, Panchwati, Ahmedabad, Gujarat - 380015</item>
+        <item>Ground Floor, Laxmi Chambers, Ramnagar, Sabarmati, Ahmedabad, Gujarat - 380005</item>
+        <item>3 U/G, Chandraprabhu Complex, Sardar Patel Bavla Cross Road, Sabarmati, Ahmedabad, Gujarat - 380005</item>
+        <item>18, Gujarat Brahmakhastriya Society, Mahalaxmi 4 Ways, Near Suvidha Shopping Centre, Paldi, Ahmedabad, Gujarat - 380007</item>
+        <item>Dr C V Raman Road, Vasna, Ahmedabad, Gujarat - 380007</item>
+        <item>Mohanlal Chambers, Sabarmati, Ahmedabad, Gujarat - 380005</item>
+        <item>36, Vijay Nagar Road, Shubhlaxmi Complex, Naranpura, Ahmedabad, Gujarat - 380013</item>
+        <item>3, Narayan Complex, Civil Hospital Camp Road, Meghaninagar, Ahmedabad, Gujarat - 380016</item>
+        <item>Gayatri Complex, Near Shivam Gas Agency, Gota Road, Chandlodia, Ahmedabad, Gujarat - 382481</item>
+        <item>4, Agrasen Tower, Near Civil Hospital, Opposite BJ Medical College, Civil Road, Ahmedabad, Gujarat - 380016</item>
+        <item>3-4,21-22, Parth Empire, Rambaug Cross Road, Maninagar, Ahmedabad, Gujarat - 380008</item>
+        <item>101, Span Trade Centre, Opposite Kocharab Ashram, Elllisbridge, Ahmedabad, Gujarat - 380006</item>
+        <item>201, Anilkunj, Paldi, Ahmedabad, Gujarat - 380007</item>
+        <item>201, Anilkunj Paldi, Near Shefali Shopping Centre, Ahmedabad, Gujarat - 380006</item>
+    </string-array>
+
+    <string-array name="contact_no">
+        <item>9687790033</item>
+        <item>079 - 25463028</item>
+        <item>079 - 22898284</item>
+        <item>079 - 22682840</item>
+        <item>079 - 26607434</item>
+        <item>079 - 40058958</item>
+        <item>079 - 25508176</item>
+        <item>079 - 22746672</item>
+        <item>079 - 27413791</item>
+        <item>079 - 26461266</item>
+        <item>079 - 2656480</item>
+        <item>079 - 26611850</item>
+        <item>079 - 26577588, 26588824</item>
+        <item>079 - 27415150, 27479742</item>
+        <item>079 - 26303090</item>
+        <item>079 - 27501202</item>
+        <item>079 - 26568004</item>
+        <item>079 - 26643618, 26643833, 26609625</item>
+        <item>079 - 26600101, 26607407</item>
+        <item>079 - 27506712, 23292400</item>
+        <item>079 - 27479742, 27415150</item>
+        <item>079 - 22863189</item>
+        <item>079 - 27604138</item>
+        <item>079 - 22861432, 22862318</item>
+        <item>079 - 25451331, 25461641</item>
+        <item>079 - 26584893</item>
+        <item>079 - 26577588, 26578824, 26932152</item>
+        <item>079 - 26578824</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
